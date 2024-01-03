@@ -13,3 +13,7 @@ gcc quine.c -o quine
 ./quine > output.gif
 ```
 
+## TODO
+
+- [ ] Use a better font
+- [ ] Encode frame by frame
